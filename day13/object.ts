@@ -3,7 +3,7 @@
 //syntax:
 // let variableName: {key1: valueType1, key2: valueType2} = {key1: value1, key2: value2}    
 
-let person: {name: string, age: number, isStudent: boolean} = {
+/*let person: {name: string, age: number, isStudent: boolean} = {
     name: "Alice",
     age: 23,
     isStudent: true
@@ -77,6 +77,6 @@ let myCar: Car = {
     model: "Camry",
     year: 2020
 };
-console.log(myCar);
+console.log(myCar);*/
 
   
