@@ -3,7 +3,7 @@
 //private: accessible only within the class
 //protected: accessible within the class and its subclasses
 
-class Person11 {
+/*class Person11 {
     public name: string;
     private age: number;
     protected address: string;
@@ -33,4 +33,4 @@ class Employee11 extends Person11 {
 }
 let emp11 = new Employee11("Jane", 28, "456 Elm St");
 emp11.showAddress();
-console.log(emp11.address); // Error: Property 'address' is protected
+console.log(emp11.address);*/ // Error: Property 'address' is protected
